@@ -18,6 +18,7 @@
     
 
 // DEBUT du contrôleur ajouter.php
+// Ligne de commentaire supplémentaire
 
 if (count($_POST)==0)
 {
